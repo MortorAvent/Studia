@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NaukaNaStudia/1.0.0": {
+        "runtime": {
+          "NaukaNaStudia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NaukaNaStudia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
