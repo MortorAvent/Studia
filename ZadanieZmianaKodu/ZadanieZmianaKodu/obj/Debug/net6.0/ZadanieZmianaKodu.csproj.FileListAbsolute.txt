@@ -1,0 +1,15 @@
+C:\Users\Szczepan\source\repos\ZadanieZmianaKodu\ZadanieZmianaKodu\bin\Debug\net6.0\ZadanieZmianaKodu.exe
+C:\Users\Szczepan\source\repos\ZadanieZmianaKodu\ZadanieZmianaKodu\bin\Debug\net6.0\ZadanieZmianaKodu.deps.json
+C:\Users\Szczepan\source\repos\ZadanieZmianaKodu\ZadanieZmianaKodu\bin\Debug\net6.0\ZadanieZmianaKodu.runtimeconfig.json
+C:\Users\Szczepan\source\repos\ZadanieZmianaKodu\ZadanieZmianaKodu\bin\Debug\net6.0\ZadanieZmianaKodu.dll
+C:\Users\Szczepan\source\repos\ZadanieZmianaKodu\ZadanieZmianaKodu\bin\Debug\net6.0\ZadanieZmianaKodu.pdb
+C:\Users\Szczepan\source\repos\ZadanieZmianaKodu\ZadanieZmianaKodu\obj\Debug\net6.0\ZadanieZmianaKodu.csproj.AssemblyReference.cache
+C:\Users\Szczepan\source\repos\ZadanieZmianaKodu\ZadanieZmianaKodu\obj\Debug\net6.0\ZadanieZmianaKodu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szczepan\source\repos\ZadanieZmianaKodu\ZadanieZmianaKodu\obj\Debug\net6.0\ZadanieZmianaKodu.AssemblyInfoInputs.cache
+C:\Users\Szczepan\source\repos\ZadanieZmianaKodu\ZadanieZmianaKodu\obj\Debug\net6.0\ZadanieZmianaKodu.AssemblyInfo.cs
+C:\Users\Szczepan\source\repos\ZadanieZmianaKodu\ZadanieZmianaKodu\obj\Debug\net6.0\ZadanieZmianaKodu.csproj.CoreCompileInputs.cache
+C:\Users\Szczepan\source\repos\ZadanieZmianaKodu\ZadanieZmianaKodu\obj\Debug\net6.0\ZadanieZmianaKodu.dll
+C:\Users\Szczepan\source\repos\ZadanieZmianaKodu\ZadanieZmianaKodu\obj\Debug\net6.0\refint\ZadanieZmianaKodu.dll
+C:\Users\Szczepan\source\repos\ZadanieZmianaKodu\ZadanieZmianaKodu\obj\Debug\net6.0\ZadanieZmianaKodu.pdb
+C:\Users\Szczepan\source\repos\ZadanieZmianaKodu\ZadanieZmianaKodu\obj\Debug\net6.0\ZadanieZmianaKodu.genruntimeconfig.cache
+C:\Users\Szczepan\source\repos\ZadanieZmianaKodu\ZadanieZmianaKodu\obj\Debug\net6.0\ref\ZadanieZmianaKodu.dll
